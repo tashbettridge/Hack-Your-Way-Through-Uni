@@ -10,7 +10,10 @@ When I mean build your knowledge base, I mean research different roles in cybers
 
 # Cybersecurity Domain Map 
 Henry Jiang who is a CISO at Dilligent Corporation mapped out various domains of the cybersecurity landscape. The world of cybersecurity can range from GRC (General Risk and Compliance), Blue Team (Security Operations, Monitoring, Incident and Response), Read Team (Penetration Testing with a combination of Risk Assessment and Red Teaming exercises), Purple Team which sits in between, DevSecops the list never ends. I suggest reading the below article from Henry Jiang as this helped me map out my career. 
-https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp/
+
+<p align="center">
+<img max-height=200 height=200 src="https://github.com/ciph3rwoman/Hack-Your-Way-Through-Uni/blob/master/cyberdomain.jpg"/>
+</p>
 
 # Hackathons 
 Sometimes it can be scary going to a meetup and everyone is dressed in a suit and you feel out of place. Hackathons is a great place to meet new people and learn about different areas in tech. The hackathons are normally supported by tech companies like Datacom, Microsoft, Amazon, Google as well as other government sectors. The best thing to do is join the Hackathons NZ facebook page wher the group will post up coming hackathons. https://www.facebook.com/HackathonsNZ/
